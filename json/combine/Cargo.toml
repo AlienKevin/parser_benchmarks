@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Geoffroy Couprie <geo.couprie@gmail.com>"]
 
 [dependencies]
-combine = "3.3.0"
+combine = "4.6.2"
 bencher = "0.1"
 fnv = "1.0"
 jemallocator = "0.1.8"
